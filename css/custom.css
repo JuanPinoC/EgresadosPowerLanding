@@ -1,0 +1,17 @@
+.bg-color-blue {
+    background-color: #38abec;
+    border-color: #38abec;
+}
+
+.bg-color-blue:hover, .bg-color-blue:active {
+    background-color: #039be5;
+    border-color: #039be5;
+}
+
+.txt-color-blue {
+    color: #38abec;
+}
+
+.txt-color-blue:hover, .txt-color-blue:active {
+    color: #039be5;
+}
